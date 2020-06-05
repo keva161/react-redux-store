@@ -1,0 +1,1 @@
+## A simple shopping application built with a Django-Rest-Framework backend. And React/Redux frontend.
